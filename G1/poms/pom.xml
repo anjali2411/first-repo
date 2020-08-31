@@ -9,9 +9,9 @@
   <name>G1 Codes Master</name>
   <url>http://www.talend.org/</url>
   <modules>
-    <module>../../G3/poms</module>
     <module>code/routines</module>
     <module>code/beans</module>
+    <module>../../G3/poms</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
