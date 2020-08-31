@@ -11,6 +11,8 @@
   <modules>
     <module>code/routines</module>
     <module>code/beans</module>
+    <module>../../G3/poms</module>
+    <module>../../G1/poms</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>

@@ -1,0 +1,9 @@
+{
+  "reference_projects" : [ {
+    "project" : "G3",
+    "branch" : "master"
+  }, {
+    "project" : "G1",
+    "branch" : "master"
+  } ]
+}
